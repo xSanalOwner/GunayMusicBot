@@ -33,7 +33,7 @@ LOG_GROUP_ID = int(getenv("LOG_GROUP_ID", "-1002442606881"))
 
 MUSIC_BOT_NAME = getenv("MUSIC_BOT_NAME")
 
-OWNER_ID = int(getenv("OWNER_ID", 7921077233))
+OWNER_ID = int(getenv("OWNER_ID", "7921077233"))
 
 HEROKU_API_KEY = getenv("HEROKU_API_KEY")
 
