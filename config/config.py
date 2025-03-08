@@ -41,15 +41,15 @@ BOT_ID = getenv("BOT_ID")
 
 HEROKU_APP_NAME = getenv("HEROKU_APP_NAME")
 
-UPSTREAM_REPO = getenv("UPSTREAM_REPO", "https://github.com/TheTeamAlexa/AlexaMusic")
+UPSTREAM_REPO = getenv("UPSTREAM_REPO", "https://github.com/xSanalOwner/GunayMusicBot")
 
 UPSTREAM_BRANCH = getenv("UPSTREAM_BRANCH", "master")
 
 GIT_TOKEN = getenv("GIT_TOKEN", None)
 
-SUPPORT_CHANNEL = getenv("SUPPORT_CHANNEL", "https://t.me/Alexa_BotUpdates")
+SUPPORT_CHANNEL = getenv("SUPPORT_CHANNEL", "https://t.me/GunayBoots")
 
-SUPPORT_GROUP = getenv("SUPPORT_GROUP", "https://t.me/Alexa_Help")
+SUPPORT_GROUP = getenv("SUPPORT_GROUP", "https://t.me/DeathTimeGroup")
 
 AUTO_LEAVING_ASSISTANT = getenv("AUTO_LEAVING_ASSISTANT", "False")
 
@@ -67,7 +67,7 @@ YOUTUBE_DOWNLOAD_EDIT_SLEEP = int(getenv("YOUTUBE_EDIT_SLEEP", "3"))
 
 TELEGRAM_DOWNLOAD_EDIT_SLEEP = int(getenv("TELEGRAM_EDIT_SLEEP", "5"))
 
-GITHUB_REPO = getenv("GITHUB_REPO", "https://github.com/TheTeamAlexa/AlexaMusic")
+GITHUB_REPO = getenv("GITHUB_REPO", "https://github.com/xSanalOwner/GunayMusicBot")
 
 SPOTIFY_CLIENT_ID = getenv("SPOTIFY_CLIENT_ID", None)
 
@@ -89,7 +89,7 @@ TG_VIDEO_FILESIZE_LIMIT = int(getenv("TG_VIDEO_FILESIZE_LIMIT", "1073741824"))
 COOKIES = getenv("COOKIES", None)
 # https://batbin.me
 
-STRING1 = getenv("STRING_SESSION", None)
+STRING1 = getenv("STRING_SESSION", "AgE6r1EAe39XuDcWMgwgYPXjt9SEVD4BBcD407xPGDQJLw5LpqUUurn5G3FR7_CN4ysjygfiXFjKBYPtHbutxYk4Id_FoWsA9U2bFW7dEBj4i6yEs5lU29O9Ddi6A1d3l5dOTewcI_GAg-HBlji6F92nh6YhdW4r7c4HH1FLZw1pFf2fa9X-FxH652MuM9KsSnSIqE1ws57ivbfGHxEJtwltGDt2tukdj7QAWBdMFvYvQMdVvaDqyGFbewVm_qPtM9l3JbnDbMrJdndpBQUPZWn9krdVwuszSwiAvh6MilZOqRy8Kcv3KC004BQytHfIoxjq9DuwQ58Sk28t-nU0yfI7O5zYvAAAAAHm8E4uAA")
 STRING2 = getenv("STRING_SESSION2", None)
 STRING3 = getenv("STRING_SESSION3", None)
 STRING4 = getenv("STRING_SESSION4", None)
